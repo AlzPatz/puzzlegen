@@ -1,0 +1,14 @@
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\bin\Debug\net8.0\GridPuzzles.exe
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\bin\Debug\net8.0\GridPuzzles.deps.json
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\bin\Debug\net8.0\GridPuzzles.runtimeconfig.json
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\bin\Debug\net8.0\GridPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\bin\Debug\net8.0\GridPuzzles.pdb
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.AssemblyInfoInputs.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.AssemblyInfo.cs
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\refint\GridPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.pdb
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\GridPuzzles.genruntimeconfig.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\GridPuzzles\obj\Debug\net8.0\ref\GridPuzzles.dll

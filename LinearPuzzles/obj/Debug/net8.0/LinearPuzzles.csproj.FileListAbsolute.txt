@@ -1,0 +1,14 @@
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\bin\Debug\net8.0\LinearPuzzles.exe
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\bin\Debug\net8.0\LinearPuzzles.deps.json
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\bin\Debug\net8.0\LinearPuzzles.runtimeconfig.json
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\bin\Debug\net8.0\LinearPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\bin\Debug\net8.0\LinearPuzzles.pdb
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.AssemblyInfoInputs.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.AssemblyInfo.cs
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\refint\LinearPuzzles.dll
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.pdb
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\LinearPuzzles.genruntimeconfig.cache
+C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\obj\Debug\net8.0\ref\LinearPuzzles.dll
