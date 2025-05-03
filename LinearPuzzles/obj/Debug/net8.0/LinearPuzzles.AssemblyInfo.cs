@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinearPuzzles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a341c73869cb078c398f30219523b694b2ec753")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinearPuzzles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinearPuzzles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

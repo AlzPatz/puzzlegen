@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|c:\\users\\jim\\documents\\repos\\puzzlegen\\gridpuzzles\\puzzlefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|solutionrelative:gridpuzzles\\puzzlefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AAC4DC-3FCD-4C12-BF3F-B16A9AADC679}|LinearPuzzles\\LinearPuzzles.csproj|c:\\users\\jim\\documents\\repos\\puzzlegen\\linearpuzzles\\puzzlefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AAC4DC-3FCD-4C12-BF3F-B16A9AADC679}|LinearPuzzles\\LinearPuzzles.csproj|solutionrelative:linearpuzzles\\puzzlefilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|c:\\users\\jim\\documents\\repos\\puzzlegen\\gridpuzzles\\puzzlescreenwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|solutionrelative:gridpuzzles\\puzzlescreenwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|c:\\users\\jim\\documents\\repos\\puzzlegen\\gridpuzzles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90F1A7-3BC7-4140-B0D1-CE928D2205F5}|GridPuzzles\\GridPuzzles.csproj|solutionrelative:gridpuzzles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuzzleFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\PuzzleFileWriter.cs",
+              "RelativeDocumentMoniker": "GridPuzzles\\PuzzleFileWriter.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\PuzzleFileWriter.cs",
+              "RelativeToolTip": "GridPuzzles\\PuzzleFileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:24:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\Program.cs",
+              "RelativeDocumentMoniker": "GridPuzzles\\Program.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\Program.cs",
+              "RelativeToolTip": "GridPuzzles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:19:07.328Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PuzzleScreenWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\PuzzleScreenWriter.cs",
+              "RelativeDocumentMoniker": "GridPuzzles\\PuzzleScreenWriter.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\PuzzleScreenWriter.cs",
+              "RelativeToolTip": "GridPuzzles\\PuzzleScreenWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:28:44.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuzzleFileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\PuzzleFileWriter.cs",
+              "RelativeDocumentMoniker": "LinearPuzzles\\PuzzleFileWriter.cs",
+              "ToolTip": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\PuzzleFileWriter.cs",
+              "RelativeToolTip": "LinearPuzzles\\PuzzleFileWriter.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:25:17.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

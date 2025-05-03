@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\LinearPuzzles\\LinearPuzzles.csproj": {}
+    "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\LinearPuzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\LinearPuzzles\\LinearPuzzles.csproj": {
+    "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\LinearPuzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\LinearPuzzles\\LinearPuzzles.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\LinearPuzzles.csproj",
         "projectName": "LinearPuzzles",
-        "projectPath": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\LinearPuzzles\\LinearPuzzles.csproj",
+        "projectPath": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\LinearPuzzles.csproj",
         "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\LinearPuzzles\\obj\\",
+        "outputPath": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\LinearPuzzles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

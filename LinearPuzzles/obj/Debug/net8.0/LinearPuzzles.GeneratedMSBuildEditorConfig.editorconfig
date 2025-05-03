@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LinearPuzzles
-build_property.ProjectDir = C:\Users\Jim\Documents\code\MathsPuzzles\LinearPuzzles\
+build_property.ProjectDir = C:\Users\Jim\Documents\repos\puzzlegen\LinearPuzzles\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

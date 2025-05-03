@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\GridPuzzles\\GridPuzzles.csproj": {}
+    "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\GridPuzzles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\GridPuzzles\\GridPuzzles.csproj": {
+    "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\GridPuzzles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\GridPuzzles\\GridPuzzles.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\GridPuzzles.csproj",
         "projectName": "GridPuzzles",
-        "projectPath": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\GridPuzzles\\GridPuzzles.csproj",
+        "projectPath": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\GridPuzzles.csproj",
         "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jim\\Documents\\code\\MathsPuzzles\\GridPuzzles\\obj\\",
+        "outputPath": "C:\\Users\\Jim\\Documents\\repos\\puzzlegen\\GridPuzzles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
